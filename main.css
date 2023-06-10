@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+body {
+    background-color: #333;
+    color: white;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: lightgrey;
+}
+
+a:hover {
+    color: aquamarine;
+}
